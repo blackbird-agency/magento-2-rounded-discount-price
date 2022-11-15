@@ -1,6 +1,6 @@
 # Rounded Product Price
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/rounded-product-price.svg?style=flat-square)](https://packagist.org/packages/blackbird/rounded-product-price)
+[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/rounded-discount-price.svg?style=flat-square)](https://packagist.org/packages/blackbird/rounded-product-price)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/magento-2-rounded-discount-price.svg?style=flat-square)](./LICENSE)
 
 This module allows you to round your catalog rule product discount price to the rounded up integer or rounded down integer.

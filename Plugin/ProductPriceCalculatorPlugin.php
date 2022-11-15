@@ -43,7 +43,7 @@ class ProductPriceCalculatorPlugin
             return $result;
         }
 
-        return $roundingType === RoundingTypeProvider::ROUNDING_TYPE_DOWN ? \floor($result) : ceil($result);
+        return $roundingType === RoundingTypeProvider::ROUNDING_TYPE_DOWN ? floor($result) : ceil($result);
     }
 
     /**
