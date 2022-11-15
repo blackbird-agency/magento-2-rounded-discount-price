@@ -1,0 +1,26 @@
+{
+    "name": "blackbird/rounded-discount-price",
+    "description": "",
+    "require": {
+        "magento/magento-composer-installer": "*",
+        "magento/module-translation": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Blackbird Agency",
+            "email": "contact@bird.eu",
+            "homepage": "https://black.bird.eu"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Blackbird\\RoundedDiscountPrice\\": ""
+        }
+    }
+}
