@@ -22,6 +22,5 @@
         "psr-4": {
             "Blackbird\\RoundedDiscountPrice\\": ""
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
